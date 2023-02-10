@@ -17,7 +17,7 @@ public class Swapping
 		b = a - b;  //b = 9 - 5 = 4
 		a = a - b;  //a = 9 - 4 = 5
 		
-		System.out.println("Numbers after swapping: " + a + " " + b);
+		System.out.println("Numbers after swapping : " + a + " " + b);
 	}
 }
 
