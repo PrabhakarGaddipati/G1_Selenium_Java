@@ -26,6 +26,7 @@ public class Palandam_String
                  {
                        System.out.println(str + " is not a Palindrome String.");
                  }
+                  sc.close();
      }
 }
 
