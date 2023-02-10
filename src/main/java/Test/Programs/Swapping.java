@@ -9,7 +9,7 @@ public class Swapping
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter two numbers: ");
 
-		//consider two numbers as a=4 & b=5
+		//consider two numbers as -> a=4 & b=5 
 		int a = sc.nextInt(); 
 		int b = sc.nextInt();
 		
