@@ -1,15 +1,6 @@
 package Test.Programs;
 
-import java.util.Scanner;
-
-public class Swapping_Of_2Numbers 
-{
-	public static void main(String args[])
-	{
-		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter two numbers: ");
-
-		//consider two numbers as -> a=4 & b=5 
+//consider two numbers as -> a=4 & b=5 
 		int a = sc.nextInt(); 
 		int b = sc.nextInt();
 		
@@ -21,4 +12,30 @@ public class Swapping_Of_2Numbers
 	}
 }
 
+
+import java.io.*;
+import java.util.*;
+  
+class Test {
+    public static void main(String[] args)
+    {
+        ArrayList<String> list = new ArrayList<String>();
+  
+        list.add("A");
+        list.add("B");
+        list.add("C");
+        list.add("D");
+        list.add("E");
+  
+        // Iterator to traverse the list
+        Iterator<String> iterator = list.iterator();
+  
+        System.out.println("List elements : ");
+  
+        while (iterator.hasNext())
+            System.out.print(iterator.next() + " ");
+  
+        System.out.println();
+    }
+}
 
