@@ -120,12 +120,19 @@ public class Duplicate_Char_in_String
 		  
 		  char[] inp = str.toCharArray();
 		  System.out.println("Duplicate Characters are:");
+		  
+		  //Below for loop is for "Print the Characters in Char[]
+//		  for (char a : inp)
+//		  {
+//			  System.out.println("Characters are: "+a);
+//		  }
 	  
-		  for (int i = 0; i < str.length(); i++) 
+		  //Below for lopp is for Compare "i"  and "j"  Values, and Print the Matched values in "i"  and "j"
+		  for (int i = 0; i < str.length(); i++)
 		  {
-				   for (int j = i + 1; j < str.length(); j++) 
+				   for (int j = i+1; j < str.length(); j++)
 				   {
-						    if (inp[i] == inp[j]) 
+						    if (inp[i] == inp[j])
 							{
 							     System.out.println(inp[j]);
 							     cnt++;
@@ -136,5 +143,5 @@ public class Duplicate_Char_in_String
 	   } 
  }
 
-//**Comments**//
+
 
