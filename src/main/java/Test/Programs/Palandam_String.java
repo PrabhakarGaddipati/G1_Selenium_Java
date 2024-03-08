@@ -11,11 +11,14 @@ public class Palandam_String
            String str = sc.nextLine();
            String reverseStr = ""; 
 
-           int strLength = str.length();     //---> we are finding the length,here
+          //--> we are finding the length,here
+           int strLength = str.length();     
 
-           for (int i = (strLength - 1); i >=0; --i)    //- -->Every Iteration we are decrasing the "i" value, Ex: 4,3,2,1,0
+          //-->Every Iteration we are decrasing the "i" value, Ex: 4,3,2,1,0
+           for (int i = (strLength - 1); i >=0; --i)    
            {
-                  reverseStr = reverseStr + str.charAt(i);   //---> Every Iteration --> One Letter Added by "+" Ex: r+a+d+a+r
+        	   //--> Every Iteration --> One Letter Added by "+" Ex: r+a+d+a+r
+        	   reverseStr = reverseStr + str.charAt(i);  
            }
 
                   if (str.equals(reverseStr))
