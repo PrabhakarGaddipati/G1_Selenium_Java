@@ -1,7 +1,7 @@
 package Test.Programs;
 
 import java.util.*;   
-public class Palandam_String
+public class P1_Palindrome_String_Int
 {  
 	 public static void main(String[] args) 
      {
