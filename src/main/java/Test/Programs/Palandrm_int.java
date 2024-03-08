@@ -12,11 +12,10 @@ public class Palandrm_int
 		String num = sc.nextLine();
 		String reverse = ""; 
 
-		int length = num.length();  
 
-		for ( int i = length - 1; i >= 0; i-- )  
+		for ( int i = num.length() - 1; i >= 0; i-- )  
 		{
-			reverse = reverse + num.charAt(i);  
+			reverse += num.charAt(i);  
 		}
 		
 			if (num.equals(reverse))  
