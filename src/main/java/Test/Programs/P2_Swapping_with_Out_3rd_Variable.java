@@ -2,7 +2,7 @@ package Test.Programs;
 
 import java.util.Scanner;
 
-public class Swapping_with_Out_3rd_Variable 
+public class P2_Swapping_with_Out_3rd_Variable 
 {
 	public static void main(String[] args) 
 	{  
