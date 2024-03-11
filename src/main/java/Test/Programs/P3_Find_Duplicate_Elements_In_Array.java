@@ -1,6 +1,6 @@
 package Test.Programs;
 
-public class Find_Duplicate_Elements_In_Array 
+public class P3_Find_Duplicate_Elements_In_Array 
 {
 	public static void main(String[] args) 
 	{  
