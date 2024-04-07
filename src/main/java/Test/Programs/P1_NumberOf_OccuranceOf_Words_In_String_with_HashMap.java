@@ -5,7 +5,7 @@ import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
 
-public class NumberOf_OccuranceOf_Words_In_String_with_HashMap 
+public class P1_NumberOf_OccuranceOf_Words_In_String_with_HashMap 
 {
 	public static void main(String[] args) 
 	{
@@ -41,4 +41,7 @@ public class NumberOf_OccuranceOf_Words_In_String_with_HashMap
 		System.out.println(hashMap);
 	}
 }
+
+//====[Output]===========================================
+//
 

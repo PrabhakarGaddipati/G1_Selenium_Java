@@ -1,6 +1,6 @@
 package Test.Programs;
 
-public class Duplicates_in_Array 
+public class P3_Duplicates_in_Array 
 {
 	public static void main (String args[])
 	{		
@@ -19,6 +19,11 @@ public class Duplicates_in_Array
 
 	}
 } 
+
+
+//====[Output]===========================================
+//
+
 
 //Video: https://www.youtube.com/watch?v=SD-qXsIVu5c&ab_channel=SoftwareTestingAndAutomation
 	

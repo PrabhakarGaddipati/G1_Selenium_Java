@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.ListIterator;
 
-public class ArrayList_Iterators 
+public class P4_ArrayList_Iterators 
 {
 	public static void main(String arg[])
 	{
@@ -22,3 +22,8 @@ public class ArrayList_Iterators
 		}
 	}
 }
+
+
+//====[Output]===========================================
+//
+
