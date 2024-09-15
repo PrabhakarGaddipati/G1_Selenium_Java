@@ -1,4 +1,4 @@
-package Test.Programs;
+package selenium_utilities;
 
 public class P3_Duplicates_in_Array 
 {

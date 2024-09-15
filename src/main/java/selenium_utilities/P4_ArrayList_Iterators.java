@@ -1,8 +1,6 @@
-package Test.Programs;
+package selenium_utilities;
 
-import java.nio.file.DirectoryIteratorException;
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.ListIterator;
 
 public class P4_ArrayList_Iterators 

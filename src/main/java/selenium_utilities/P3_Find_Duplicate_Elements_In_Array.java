@@ -1,4 +1,4 @@
-package Test.Programs;
+package selenium_utilities;
 
 public class P3_Find_Duplicate_Elements_In_Array 
 {

@@ -1,6 +1,5 @@
-package Test.Programs;
+package selenium_utilities;
 
-import java.io.*;
 import java.util.*;
   
 class Test 

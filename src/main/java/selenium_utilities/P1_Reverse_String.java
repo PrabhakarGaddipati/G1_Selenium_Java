@@ -1,10 +1,6 @@
-package Test.Programs;
+package selenium_utilities;
 
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-
-public class P1_Reverse_String 
+public class P1_Reverse_String
 {
 	 public static void main(String[] args) 
 	 {           

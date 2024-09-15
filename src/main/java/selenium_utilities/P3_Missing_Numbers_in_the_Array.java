@@ -1,4 +1,4 @@
-package Test.Programs;
+package selenium_utilities;
 
 public class P3_Missing_Numbers_in_the_Array 
 {
