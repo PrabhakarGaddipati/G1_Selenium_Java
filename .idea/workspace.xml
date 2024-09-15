@@ -4,38 +4,92 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54ba0c8b-8624-4641-a86b-262cdea21d74" name="Changes" comment="Updates One 15 September 2024" />
+    <list default="true" id="54ba0c8b-8624-4641-a86b-262cdea21d74" name="Changes" comment="Updates One 15 September 2024">
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_arrays/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_concepts/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_others/others.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_strings/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/FindDuplicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/FindDuplicateElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/Object_Pass_Return.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/Object_Pass_Return.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P1_Count_Of_Duplicate_Characters_in_a_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P1_Count_Of_Duplicate_Characters_in_a_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P1_Count_Total_Number_Of_Words_In_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P1_Count_Total_Number_Of_Words_In_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P1_Duplicate_Char_in_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P1_Duplicate_Char_in_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P1_NumberOf_OccuranceOf_Words_In_String_with_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P1_NumberOf_OccuranceOf_Words_In_String_with_HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P1_Palindrome_String_Int.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P1_Palindrome_String_Int.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P1_Palindrome_with_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P1_Palindrome_with_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P1_ReverseString_with_StringBulder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P1_ReverseString_with_StringBulder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P1_ReverseString_with_toCharArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P1_ReverseString_with_toCharArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P1_Reverse_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P1_Reverse_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P1_String_Concatenate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P1_String_Concatenate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P2_Swapping_Of_2Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P2_Swapping_Of_2Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P2_Swapping_with_Out_3rd_Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P2_Swapping_with_Out_3rd_Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P3_Compare_Two_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P3_Compare_Two_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P3_Duplicates_in_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P3_Duplicates_in_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P3_FindLargestNumber_In_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P3_FindLargestNumber_In_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P3_Find_Duplicate_Elements_In_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P3_Find_Duplicate_Elements_In_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P3_Missing_Numbers_in_the_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P3_Missing_Numbers_in_the_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P3_Print_Elements_In_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P3_Print_Elements_In_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P3_Reverse_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P3_Reverse_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/P4_ArrayList_Iterators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/P4_ArrayList_Iterators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/Palandrm_int.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/Palandrm_int.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/PrimeNumber_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/PrimeNumber_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/PrimeNumber_with_Forloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/PrimeNumber_with_Forloop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_programs/Prime_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_programs_on_collections/Prime_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_programs/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/java_programs_on_collections/test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Prabhakar_Local_Branch_Intellij" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "PrabhakarGaddipati"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PrabhakarGaddipati&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PrabhakarGaddipati/G1_Java_Programs.git",
-    "accountId": "85e590fa-9012-4872-8f4d-4a8959fa6e55"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PrabhakarGaddipati/G1_Java_Programs.git&quot;,
+    &quot;accountId&quot;: &quot;85e590fa-9012-4872-8f4d-4a8959fa6e55&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;PrabhakarGaddipati&quot;,
+    &quot;repository&quot;: &quot;G1_Java_Programs&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2m6tybzArU7A9QPiT2az4VncqtY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,12 +104,22 @@
     "Application.Strings_Count_Of_Total_Number_Of_Words_In_String.executor": "Run",
     "Application.Test.Programs.Strings_Count_Of_Duplicate_Characters_in_a_String_P1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Prabhakar__New__Branch__15__Sep__2024",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/prabh/IdeaProjects/G1_Java_Programs",
+    "last_opened_file_path": "C:/Users/prabh/IdeaProjects/G1_Java_Programs/src/main/java",
     "settings.editor.selected.configurable": "preferences.keymap"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\prabh\IdeaProjects\G1_Java_Programs\src\main\java" />
+      <recent name="C:\Users\prabh\IdeaProjects\G1_Java_Programs\src\test\java" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="selenium_related_programs" />
     </key>
@@ -155,8 +219,27 @@
       <option name="project" value="LOCAL" />
       <updated>1726410380769</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updates One 15 September 2024">
+      <option name="closed" value="true" />
+      <created>1726412798648</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726412798648</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updates One 15 September 2024" />
