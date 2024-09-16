@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54ba0c8b-8624-4641-a86b-262cdea21d74" name="Changes" comment="Updates One 15 September 2024">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/java_programs_on_collections/Broken_Links.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_related_programs/Broken_Links.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/java_programs_on_collections/Multiple_Window_Handling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_related_programs/Multiple_Window_Handling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_1_programs_on_strings/P1_Palindrome_String_Int.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +75,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Prabhakar__New__Branch__15__Sep__2024",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/prabh/IdeaProjects/G1_Java_Programs/src/main/java/java_programs_on_strings",
+    "last_opened_file_path": "C:/Users/prabh/IdeaProjects/G1_Java_Programs/src/main/java/java_1_programs_on_strings",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
@@ -89,6 +86,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\prabh\IdeaProjects\G1_Java_Programs\src\main\java\java_1_programs_on_strings" />
       <recent name="C:\Users\prabh\IdeaProjects\G1_Java_Programs\src\main\java\java_programs_on_strings" />
       <recent name="C:\Users\prabh\IdeaProjects\G1_Java_Programs\src\main\java" />
       <recent name="C:\Users\prabh\IdeaProjects\G1_Java_Programs\src\test\java" />
