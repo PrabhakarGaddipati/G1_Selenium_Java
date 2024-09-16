@@ -1,4 +1,4 @@
-package java_programs_on_collections;
+package selenium_related_programs;
 
 public class Broken_Links
 {
