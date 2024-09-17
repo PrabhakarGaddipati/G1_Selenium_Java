@@ -1,4 +1,4 @@
-package selenium_utilities;
+package selenium_P8_all_utilities_related;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -6,9 +6,9 @@ import java.io.IOException;
 import java.time.Duration;
 import java.util.Set;
 
-public class Common_Methods
+public class P8_Common_Methods
 {
-    private static final Logger logger = LogManager.getLogger(Common_Methods.class);
+    private static final Logger logger = LogManager.getLogger(P8_Common_Methods.class);
 
     // ==============================
     // Element Interaction Methods
