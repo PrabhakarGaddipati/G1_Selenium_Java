@@ -1,10 +1,10 @@
-package selenium_utilities;
+package selenium_P8_all_utilities_related;
 
 import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.WebDriver;
 
-public class Assertions_Utility
+public class P8_Assertions_Utility
 {
     private WebDriver driver;
 

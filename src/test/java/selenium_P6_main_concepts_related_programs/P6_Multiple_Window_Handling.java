@@ -1,11 +1,11 @@
-package java_programs_on_collections;
+package selenium_P6_main_concepts_related_programs;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.Set;
 
-public class Multiple_Window_Handling
+public class P6_Multiple_Window_Handling
 {
         public static void main(String[] args)
         {

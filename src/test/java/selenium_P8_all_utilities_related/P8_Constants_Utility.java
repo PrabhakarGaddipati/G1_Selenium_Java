@@ -1,12 +1,12 @@
-package selenium_utilities;
+package selenium_P8_all_utilities_related;
 
 import com.utils.PropertyUtils; // Your utility class to load properties
 import com.enums.PropertyFileConstants;
 import com.utils.PropertyUtils;
 
-public class Constants_Utility
+public class P8_Constants_Utility
 {
-         private Constants_Utility()
+         private P8_Constants_Utility()
          {
 
          }

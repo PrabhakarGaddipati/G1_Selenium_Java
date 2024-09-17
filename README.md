@@ -1,2 +1,2 @@
 # G1_Java_Programs
-Core Java java_programs_on_collections And Related
+Core Java selenium_P6_main_concepts_related_programs And Related

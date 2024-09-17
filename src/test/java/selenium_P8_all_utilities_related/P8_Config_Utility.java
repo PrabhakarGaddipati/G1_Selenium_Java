@@ -1,4 +1,4 @@
-package selenium_utilities;
+package selenium_P8_all_utilities_related;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -7,7 +7,7 @@ import java.util.Properties;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class Config_Utility
+public class P8_Config_Utility
 {
     private static final Logger logger = LogManager.getLogger(ConfigUtils.class);
     private static final Properties prop = new Properties();
