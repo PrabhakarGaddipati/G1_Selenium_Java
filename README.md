@@ -1,2 +1,2 @@
 # G1_Java_Programs
-Core Java selenium_P6_main_concepts_related_programs And Related
+Core Java selenium_06_main_concepts_related_programs And Related
