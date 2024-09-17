@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>selenium_P6_main_concepts_related_programs</name>
+  <name>selenium_06_main_concepts_related_programs</name>
   <url>http://maven.apache.org</url>
 
   <properties>
