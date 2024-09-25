@@ -5,70 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54ba0c8b-8624-4641-a86b-262cdea21d74" name="Changes" comment="Updates One 15 September 2024">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_Ascii_Value_Of_a_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON_to_POJO_Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/selenium_08_all_utilities_related/CalenderUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_1_programs_on_strings/P1_Count_Of_Duplicate_Characters_in_a_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_Count_Of_Duplicate_Characters_in_a_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_1_programs_on_strings/P1_Count_Total_Number_Of_Words_In_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_Count_Total_Number_Of_Words_In_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_1_programs_on_strings/P1_Duplicate_Char_in_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_Duplicate_Char_in_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_1_programs_on_strings/P1_NumberOf_OccuranceOf_Words_In_String_with_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_NumberOf_OccuranceOf_Words_In_String_with_HashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_1_programs_on_strings/P1_Palandrm_int.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_Palandrm_int.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_1_programs_on_strings/P1_Palindrome_String_Int.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_Palindrome_String_Int.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_1_programs_on_strings/P1_Palindrome_String_Int.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_Palindrome_String_Int.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_1_programs_on_strings/P1_Palindrome_with_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_Palindrome_with_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_1_programs_on_strings/P1_ReverseString_with_StringBulder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_ReverseString_with_StringBulder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_1_programs_on_strings/P1_ReverseString_with_toCharArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_ReverseString_with_toCharArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_1_programs_on_strings/P1_Reverse_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_Reverse_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_1_programs_on_strings/P1_String_Concatenate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_String_Concatenate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_2_programs_on_arrays/P2_Compare_Two_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_02_programs_on_arrays/P2_Compare_Two_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_2_programs_on_arrays/P2_Duplicates_in_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_02_programs_on_arrays/P2_Duplicates_in_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_2_programs_on_arrays/P2_Find_Duplicate_Elements_in_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_02_programs_on_arrays/P2_Find_Duplicate_Elements_in_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_2_programs_on_arrays/P2_Find_Largest_Number_In_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_02_programs_on_arrays/P2_Find_Largest_Number_In_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_2_programs_on_arrays/P2_Missing_Numbers_in_the_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_02_programs_on_arrays/P2_Missing_Numbers_in_the_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_2_programs_on_arrays/P2_Print_Elements_In_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_02_programs_on_arrays/P2_Print_Elements_In_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_2_programs_on_arrays/P2_Reverse_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_02_programs_on_arrays/P2_Reverse_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_2_programs_on_arrays/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_02_programs_on_arrays/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_programs_on_collections/Object_Pass_Return.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_03_programs_on_collections/Object_Pass_Return.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_programs_on_collections/P3_ArrayList_Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_03_programs_on_collections/P3_ArrayList_Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_programs_on_collections/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_03_programs_on_collections/Temp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_programs_on_concepts/P4_Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_04_programs_on_concepts/P4_Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_programs_on_concepts/P4_Fibonacci_(Temp).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_04_programs_on_concepts/P4_Fibonacci_(Temp).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_programs_on_concepts/P4_Swapping_with_Out_3rd_Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_04_programs_on_concepts/P4_Swapping_with_Out_3rd_Variable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_programs_on_concepts/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_04_programs_on_concepts/Prime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_programs_on_concepts/PrimeNumber_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_04_programs_on_concepts/PrimeNumber_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_programs_on_concepts/PrimeNumber_with_Forloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_04_programs_on_concepts/PrimeNumber_with_Forloop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_programs_on_concepts/Prime_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_04_programs_on_concepts/Prime_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_programs_on_concepts/Sum_Of_All_Positive_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_04_programs_on_concepts/Sum_Of_All_Positive_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_5_programs_on_others/P5_Others.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_05_programs_on_others/P5_Others.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_5_programs_on_others/P5_Testing_Image.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_05_programs_on_others/P5_Testing_Image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P10_sql_related/P10_All_About_DDL_DML_TCL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_10_sql_related/P10_All_About_DDL_DML_TCL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P10_sql_related/P10_SQL_Queries_On_Joins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_10_sql_related/P10_SQL_Queries_On_Joins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P10_sql_related/P10_SQL_Queries_On_Select.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_10_sql_related/P10_SQL_Queries_On_Select.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_All_Basic_Commands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_All_Basic_Commands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_All_SSL_Certificates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_All_SSL_Certificates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_Browser_Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_Browser_Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_ChromeOptions_Related.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_ChromeOptions_Related.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_Cookies_Related.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_Cookies_Related.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_Data_Driven_Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_Data_Driven_Testing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_Different_Kinds_Of_XPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_Different_Kinds_Of_XPaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_Different_Waits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_Different_Waits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_Drop_Downs_SelectClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_Drop_Downs_SelectClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_File_Read_Write.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_File_Read_Write.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_JDBC_Related.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_JDBC_Related.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_JavaScript_Executor_Related.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_JavaScript_Executor_Related.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_Mouse_Over_Related.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_Mouse_Over_Related.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_Multiple_Window_Handling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_Multiple_Window_Handling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_Scrolling_Web_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_Scrolling_Web_Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_Take_ScreenShot_Related.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_Take_ScreenShot_Related.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_WebTables_Related.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_WebTables_Related.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P6_main_concepts_related_programs/P6_Website_Broken_Links.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_06_main_concepts_related_programs/P6_Website_Broken_Links.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P7_testng_and_loggers_programs/P7_TestNG_Assertions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_07_testng_and_loggers_programs/P7_TestNG_Assertions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P7_testng_and_loggers_programs/P7_TestNG_Listners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_07_testng_and_loggers_programs/P7_TestNG_Listners.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P7_testng_and_loggers_programs/P7_TestNG_Paraller_Execution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_07_testng_and_loggers_programs/P7_TestNG_Paraller_Execution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P8_all_utilities_related/P8_Assertions_Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_08_all_utilities_related/P8_Assertions_Utility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P8_all_utilities_related/P8_Common_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_08_all_utilities_related/P8_Common_Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P8_all_utilities_related/P8_Config_Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_08_all_utilities_related/P8_Config_Utility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P8_all_utilities_related/P8_Constants_Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_08_all_utilities_related/P8_Constants_Utility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_P9_restassured_related/P9_restassured_related.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_09_restassured_related/P9_restassured_related.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_Count_Of_Duplicate_Characters_in_a_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_Count_Of_Duplicate_Characters_in_a_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_02_programs_on_arrays/P2_Find_Duplicate_Elements_in_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_02_programs_on_arrays/P2_Find_Duplicate_Elements_in_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_02_programs_on_arrays/P2_Find_Largest_Number_In_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_02_programs_on_arrays/P2_Find_Largest_Number_In_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_03_programs_on_collections/Object_Pass_Return.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_03_programs_on_collections/Object_Pass_Return.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_03_programs_on_collections/P3_ArrayList_Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_03_programs_on_collections/P3_ArrayList_Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_09_restassured_related/P9_restassured_related.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_09_restassured_related/P9_restassured_related.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,8 +60,32 @@
     &quot;repository&quot;: &quot;G1_Java_Programs&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/Scanner.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.17.1/jackson-databind-2.17.1-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.17.1/jackson-databind-2.17.1-sources.jar!/com/fasterxml/jackson/databind/ObjectWriter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.17.1/jackson-databind-2.17.1-sources.jar!/com/fasterxml/jackson/databind/jsontype/impl/StdTypeResolverBuilder.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.17.1/jackson-databind-2.17.1-sources.jar!/com/fasterxml/jackson/databind/ser/BeanPropertyWriter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.17.1/jackson-databind-2.17.1-sources.jar!/com/fasterxml/jackson/databind/ser/BeanSerializer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.17.1/jackson-databind-2.17.1-sources.jar!/com/fasterxml/jackson/databind/ser/DefaultSerializerProvider.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.17.1/jackson-databind-2.17.1-sources.jar!/com/fasterxml/jackson/databind/ser/impl/IndexedListSerializer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.17.1/jackson-databind-2.17.1-sources.jar!/com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_Ascii_Value_Of_a_String.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_Count_Of_Duplicate_Characters_in_a_String.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/java_01_programs_on_strings/P1_Reverse_String.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/java_02_programs_on_arrays/P2_Compare_Two_Arrays.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/java_02_programs_on_arrays/P2_Duplicates_in_Array.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/java_02_programs_on_arrays/P2_Find_Duplicate_Elements_in_Array.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/java_03_programs_on_collections/Object_Pass_Return.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/java_03_programs_on_collections/P3_ArrayList_Iterator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON_to_POJO_Conversion.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/selenium_08_all_utilities_related/CalenderUtility.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -127,9 +99,24 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.JsonTest.executor&quot;: &quot;Debug&quot;,
     &quot;Application.List_Iterator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P1_Ascii_Value_Of_a_String.executor&quot;: &quot;Debug&quot;,
     &quot;Application.P1_Count_Of_Duplicate_Characters_in_a_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P2_Duplicates_in_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P2_Find_Duplicate_Elements_in_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P2_Find_Largest_Number_In_Array.executor&quot;: &quot;Run&quot;,
     &quot;Application.P4_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.POJO_to_JSON (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.POJO_to_JSON (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.POJO_to_JSON_Conversion (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.POJO_to_JSON_Conversion (2).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.POJO_to_JSON_Conversion (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.POJO_to_JSON_Conversion (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.POJO_to_JSON_Conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.POJO_to_JSON_to_POJO_Conversion (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.POJO_to_JSON_to_POJO_Conversion (2).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.POJO_to_JSON_to_POJO_Conversion.executor&quot;: &quot;Debug&quot;,
     &quot;Application.Strings_Count_Of_Duplicate_Characters_in_a_String_P1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Strings_Count_Of_Total_Number_Of_Words_In_String.executor&quot;: &quot;Run&quot;,
     &quot;Application.Temp.executor&quot;: &quot;Debug&quot;,
@@ -138,9 +125,12 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;Prabhakar__New__Branch__15__Sep__2024&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/prabh/IdeaProjects/G1_Java_Programs/src/main/java/java_4_programs_on_concepts&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/prabh/OneDrive/Documents/Selenium_Working_GitHub_Projects/Selenium_Project_E2E_Testing_Web_Application-main&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
@@ -163,48 +153,9 @@
       <recent name="java_4_programs_on_concepts" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P4_Fibonacci">
-    <configuration name="ArrayList_Iterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_programs_on_collections.ArrayList_Iterator" />
-      <module name="Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selenium_06_main_concepts_related_programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P4_Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_04_programs_on_concepts.P4_Fibonacci" />
-      <module name="Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_03_programs_on_collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Strings_Count_Of_Total_Number_Of_Words_In_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corejava.programs.Strings_Count_Of_Total_Number_Of_Words_In_String" />
-      <module name="Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.corejava.programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_programs_on_collections.Temp" />
+  <component name="RunManager" selected="Application.P2_Find_Duplicate_Elements_in_Array">
+    <configuration name="P2_Duplicates_in_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_02_programs_on_arrays.P2_Duplicates_in_Array" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -216,12 +167,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_programs_on_concepts.Test" />
+    <configuration name="P2_Find_Duplicate_Elements_in_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_02_programs_on_arrays.P2_Find_Duplicate_Elements_in_Array" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_02_programs_on_arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POJO_to_JSON (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_05_programs_on_others.POJO_to_JSON" />
+      <module name="Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_05_programs_on_others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POJO_to_JSON (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_05_programs_on_others.POJO_to_JSON" />
+      <module name="Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_05_programs_on_others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POJO_to_JSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_05_programs_on_others.POJO_to_JSON" />
+      <module name="Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_05_programs_on_others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POJO_to_JSON_Conversion (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_05_programs_on_others.POJO_to_JSON_Conversion" />
+      <module name="Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_05_programs_on_others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POJO_to_JSON_to_POJO_Conversion (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_05_programs_on_others.POJO_to_JSON_to_POJO_Conversion" />
+      <module name="Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_05_programs_on_others.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P4_Fibonacci" />
-        <item itemvalue="Application.ArrayList_Iterator" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Temp" />
-        <item itemvalue="Application.Strings_Count_Of_Total_Number_Of_Words_In_String" />
+        <item itemvalue="Application.P2_Find_Duplicate_Elements_in_Array" />
+        <item itemvalue="Application.P2_Duplicates_in_Array" />
+        <item itemvalue="Application.POJO_to_JSON (2)" />
+        <item itemvalue="Application.POJO_to_JSON (1)" />
+        <item itemvalue="Application.POJO_to_JSON" />
       </list>
     </recent_temporary>
   </component>
@@ -310,6 +326,74 @@
           <url>file://$PROJECT_DIR$/src/main/java/java_03_programs_on_collections/Temp.java</url>
           <line>14</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON_to_POJO_Conversion.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON_to_POJO_Conversion.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON_to_POJO_Conversion.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON_to_POJO_Conversion.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON_to_POJO_Conversion.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON_to_POJO_Conversion.java</url>
+          <line>55</line>
+          <properties class="java_05_programs_on_others.Employee" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/java_05_programs_on_others/POJO_to_JSON.java</url>
+          <line>13</line>
+          <properties class="java_05_programs_on_others.Employees" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

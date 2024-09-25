@@ -9,7 +9,7 @@ public class P2_Find_Duplicate_Elements_in_Array
 		int[] array = new int[]{2, 4, 7, 2, 11, 17, 2, 19, 7, 22, 7, 49};
 		ArrayList<Integer> duplicates = new ArrayList<>();
 
-		for (int i = 0; i < array.length; i++) 
+		for (int i = 0; i < array.length; i++)
 		{
 			for (int j = i + 1; j < array.length; j++) 
 			{
