@@ -1,6 +1,7 @@
 package java_03_programs_on_collections;
 
 import java.util.Scanner;
+
 public class Object_Pass_Return 
 {
     int length, breadth, area;

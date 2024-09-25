@@ -16,7 +16,6 @@ class P3_ArrayList_Iterator
 
         // Iterator to traverse the list
         Iterator<String> iterator = list.iterator();
-
         System.out.println("List elements : ");
 
         while (iterator.hasNext())
