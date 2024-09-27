@@ -22,5 +22,6 @@ public class P1_Ascii_Value_Of_a_String
 
         // Close the scanner object.
         scanner.close();
+        
     }
 }
