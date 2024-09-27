@@ -20,7 +20,7 @@ public class P1_Ascii_Value_Of_a_String
             System.out.println("Value:" + asciiValue);
         }
 
-        // Close the scanner object
+        // Close the scanner object.
         scanner.close();
     }
 }
