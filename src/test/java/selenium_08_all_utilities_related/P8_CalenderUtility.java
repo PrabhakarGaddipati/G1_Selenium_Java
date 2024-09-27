@@ -3,8 +3,10 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class MainCalendarTest {
-    public static void main(String[] args) {
+public class MainCalendarTest
+{
+    public static void main(String[] args)
+    {
         // Initialize WebDriver
         System.setProperty("webdriver.chrome.driver", "path/to/chromedriver");
         WebDriver driver = new ChromeDriver();
@@ -30,18 +32,22 @@ import org.openqa.selenium.WebElement;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-public class CalendarUtility {
+public class CalendarUtility
+{
 
     // Method to handle calendar selection dynamically
-    public static void CalendarMethodHandling(WebDriver driver, String calendarInputXpath, String datePickerXpath, String dateXpath) {
-        try {
+    public static void CalendarMethodHandling(WebDriver driver, String calendarInputXpath, String datePickerXpath, String dateXpath)
+    {
+        try
+        {
             // Step 1: Click the calendar input to open the date picker
             WebElement calendarInput = driver.findElement(By.xpath(calendarInputXpath));
             calendarInput.click();
 
             // Step 2: Wait for the date picker window to be displayed
             WebElement datePicker = driver.findElement(By.xpath(datePickerXpath));
-            if (!datePicker.isDisplayed()) {
+            if (!datePicker.isDisplayed())
+            {
                 throw new RuntimeException("Date picker window did not open as expected");
             }
 
@@ -53,13 +59,15 @@ public class CalendarUtility {
             WebElement dateElement = driver.findElement(By.xpath(dateXpath + "[text()='" + todayDay + "']"));
             dateElement.click();
 
-        } catch (Exception e) {
+        } catch (Exception e)
+        {
             e.printStackTrace();
         }
     }
 
     // Helper method to return the current system date (day only) as a string
-    private static String getTodayDate() {
+    private static String getTodayDate()
+    {
         LocalDate today = LocalDate.now(); // Get today's date
         DateTimeFormatter dayFormatter = DateTimeFormatter.ofPattern("d"); // Format for day only
         return today.format(dayFormatter); // Return today's day as a string
