@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54ba0c8b-8624-4641-a86b-262cdea21d74" name="Changes" comment="Updates One 15 September 2024">
+      <change afterPath="$PROJECT_DIR$/src/test/java/selenium_08_all_utilities_related/P8_DB_Utility.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_08_all_utilities_related/P8_CalenderUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_08_all_utilities_related/P8_CalenderUtility.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,48 +88,48 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.JsonTest.executor": "Debug",
-    "Application.List_Iterator.executor": "Run",
-    "Application.P1_Ascii_Value_Of_a_String.executor": "Debug",
-    "Application.P1_Count_Of_Duplicate_Characters_in_a_String.executor": "Run",
-    "Application.P2_Duplicates_in_Array.executor": "Run",
-    "Application.P2_Find_Duplicate_Elements_in_Array.executor": "Run",
-    "Application.P2_Find_Largest_Number_In_Array.executor": "Run",
-    "Application.P4_Fibonacci.executor": "Run",
-    "Application.POJO_to_JSON (1).executor": "Debug",
-    "Application.POJO_to_JSON (2).executor": "Run",
-    "Application.POJO_to_JSON_Conversion (1).executor": "Run",
-    "Application.POJO_to_JSON_Conversion (2).executor": "Debug",
-    "Application.POJO_to_JSON_Conversion (3).executor": "Run",
-    "Application.POJO_to_JSON_Conversion (4).executor": "Run",
-    "Application.POJO_to_JSON_Conversion.executor": "Run",
-    "Application.POJO_to_JSON_to_POJO_Conversion (1).executor": "Debug",
-    "Application.POJO_to_JSON_to_POJO_Conversion (2).executor": "Debug",
-    "Application.POJO_to_JSON_to_POJO_Conversion.executor": "Debug",
-    "Application.Strings_Count_Of_Duplicate_Characters_in_a_String_P1.executor": "Run",
-    "Application.Strings_Count_Of_Total_Number_Of_Words_In_String.executor": "Run",
-    "Application.Temp.executor": "Debug",
-    "Application.Test.Programs.Strings_Count_Of_Duplicate_Characters_in_a_String_P1.executor": "Run",
-    "Application.Test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/prabh/IdeaProjects/G1_Selenium_Java",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.JsonTest.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.List_Iterator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P1_Ascii_Value_Of_a_String.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.P1_Count_Of_Duplicate_Characters_in_a_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P2_Duplicates_in_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P2_Find_Duplicate_Elements_in_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P2_Find_Largest_Number_In_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P4_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.POJO_to_JSON (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.POJO_to_JSON (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.POJO_to_JSON_Conversion (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.POJO_to_JSON_Conversion (2).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.POJO_to_JSON_Conversion (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.POJO_to_JSON_Conversion (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.POJO_to_JSON_Conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.POJO_to_JSON_to_POJO_Conversion (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.POJO_to_JSON_to_POJO_Conversion (2).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.POJO_to_JSON_to_POJO_Conversion.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Strings_Count_Of_Duplicate_Characters_in_a_String_P1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Strings_Count_Of_Total_Number_Of_Words_In_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Temp.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Test.Programs.Strings_Count_Of_Duplicate_Characters_in_a_String_P1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/prabh/IdeaProjects/G1_Selenium_Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\prabh\IdeaProjects\G1_Java_Programs\src\main\java\java_4_programs_on_concepts" />
