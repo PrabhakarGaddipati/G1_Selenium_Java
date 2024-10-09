@@ -1,7 +1,8 @@
-package java_05_programs_on_others;
+package selenium_09_restassured_related;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+
 import java.util.ArrayList;
 import java.util.List;
 

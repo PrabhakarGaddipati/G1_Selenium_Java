@@ -1,4 +1,4 @@
-package java_04_programs_on_concepts;
+package java_05_programs_on_formula_based;
 
 public class Prime_Number 
 {

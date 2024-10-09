@@ -1,4 +1,4 @@
-package java_01_programs_on_strings;
+package java_01_programs_on_Int_strings;
 
 public class P1_Count_Total_Number_Of_Words_In_String 
 {
