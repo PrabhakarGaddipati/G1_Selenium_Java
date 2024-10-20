@@ -17,7 +17,7 @@ public class P1_Count_Of_Duplicate_Characters_in_a_String
         {
             if (dupCharMap.containsKey(keys))   //"containsKey()"-> is boolean method Returns True (Or) Fale
             {
-                dupCharMap.put(keys, dupCharMap.get(keys) + 1);
+                dupCharMap.puts(keys, dupCharMap.get(keys) + 1);
             }
             else
             {
