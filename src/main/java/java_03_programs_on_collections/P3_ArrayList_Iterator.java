@@ -14,7 +14,6 @@ class P3_ArrayList_Iterator
         list.add("D");
         list.add("E");
 
-        // Iterator to traverse the list
         Iterator<String> iterator = list.iterator();
         System.out.println("List elements : ");
 

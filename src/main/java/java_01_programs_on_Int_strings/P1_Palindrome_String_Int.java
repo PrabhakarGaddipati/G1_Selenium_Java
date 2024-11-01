@@ -12,13 +12,10 @@ public class P1_Palindrome_String_Int
 		String str = sc.nextLine();
 		String reverseStr = "";
 
-		//we are finding the length,here
 		int strLength = str.length();
 
-		//Every Iteration we are decrasing the "i" value, Ex: 4,3,2,1,0
-		for (int i = (strLength - 1); i >= 0; --i) 
+		for (int i = (strLength - 1); i >= 0; --i)
 		{
-			//Every Iteration --> One Letter Added by "+" Ex: r+a+d+a+r
 			reverseStr = reverseStr + str.charAt(i);
 		 }
 
@@ -34,7 +31,8 @@ public class P1_Palindrome_String_Int
 	}
 }
 
+// Good Progaming Logic - Understand
 //====[Output]===========================================
-//
+
 
 

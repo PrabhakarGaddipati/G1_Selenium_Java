@@ -27,7 +27,7 @@ package java_05_programs_on_formula_based;
 //
 ////Video Link: https://www.youtube.com/watch?v=g1xVzvI51ig&ab_channel=QAFox
 
-public class P2_Missing_Numbers_in_the_Array
+public class P5_Missing_Numbers_in_the_Array
 {
 	public static void main(String[] args)
 	{

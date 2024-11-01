@@ -20,21 +20,21 @@ public class P6_Screenshot_And_Related_Code
     // Method to take a screenshot with timestamp, class name, and method name
     public static void takeScreenshot(WebDriver driver, String className, String methodName)
     {
-        // Create timestamp format for screenshot filenames
         String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
 
-        // Cast driver object to TakesScreenshot
         TakesScreenshot ts = (TakesScreenshot) driver;
         File source = ts.getScreenshotAs(OutputType.FILE);
 
         // Set the destination for the screenshot (organized by class name, method name, and timestamp)
         String dest = "./screenshots/" + className + "_" + methodName + "_" + timestamp + ".png";
 
-        try {
-            // Copy the screenshot to the specified location
+        try
+        {
             FileUtils.copyFile(source, new File(dest));
             System.out.println("Screenshot taken: " + dest);
-        } catch (IOException e) {
+        }
+        catch (IOException e)
+        {
             System.out.println("Exception while taking screenshot: " + e.getMessage());
         }
     }

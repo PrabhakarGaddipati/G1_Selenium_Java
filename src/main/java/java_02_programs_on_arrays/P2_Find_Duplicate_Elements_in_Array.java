@@ -21,3 +21,5 @@ public class P2_Find_Duplicate_Elements_in_Array
 		}
 	}
 }
+
+// Good Programing Logic - Understand

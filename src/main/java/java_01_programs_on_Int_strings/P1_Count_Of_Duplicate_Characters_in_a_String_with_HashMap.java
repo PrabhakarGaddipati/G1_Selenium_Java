@@ -3,11 +3,10 @@ package java_01_programs_on_Int_strings;
 import java.util.HashMap;
 import java.util.Map;
 
-public class P1_Count_Of_Duplicate_Characters_in_a_String
+public class P1_Count_Of_Duplicate_Characters_in_a_String_with_HashMap
 {
     public static void main(String[] args)
     {
-        //Find the Duplicate Characters in a String and Count its Occurrence
         String str = "Tata";
 
         Map<Character, Integer> dupCharMap = new HashMap<>();
@@ -17,7 +16,8 @@ public class P1_Count_Of_Duplicate_Characters_in_a_String
         {
             if (dupCharMap.containsKey(keys))   //"containsKey()"-> is boolean method Returns True (Or) Fale
             {
-                dupCharMap.puts(keys, dupCharMap.get(keys) + 1);
+                dupCharMap.put(keys, dupCharMap.get(keys) + 1);
+                System.out.println("Output: " +dupCharMap.put(keys, dupCharMap.get(keys) + 1));
             }
             else
             {
@@ -28,5 +28,6 @@ public class P1_Count_Of_Duplicate_Characters_in_a_String
     }
 }
 
+// Good Programing Logic - Understand
 //====[Output]===========================================
 //

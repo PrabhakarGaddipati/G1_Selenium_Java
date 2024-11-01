@@ -12,7 +12,6 @@ public class P1_Palandrm_int
 		String num = sc.nextLine();
 		String reverse = ""; 
 
-
 		for ( int i = num.length() - 1; i >= 0; i-- )  
 		{
 			reverse += num.charAt(i);  
@@ -28,3 +27,5 @@ public class P1_Palandrm_int
 			}
 	}
 }
+
+// Good Progaming Logic - Understand

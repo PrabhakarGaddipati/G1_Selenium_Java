@@ -5,9 +5,8 @@ public class P1_ReverseString_with_toCharArray
 {
 	public static void main(String[] args) 
 	{
-       
         String str = "Arun Motoori";
-        String reversedStr="";         
+        String reversedStr="";
         char[] ca = str.toCharArray();
         
          for(int i=ca.length-1; i>=0; i--)

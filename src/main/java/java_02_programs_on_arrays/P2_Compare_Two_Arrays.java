@@ -21,5 +21,6 @@ public class P2_Compare_Two_Arrays
 }
 
 //====[Output]===========================================
-//
+// Good Programing Logic - Understand
+
 

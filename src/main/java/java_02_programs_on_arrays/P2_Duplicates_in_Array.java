@@ -18,7 +18,9 @@ public class P2_Duplicates_in_Array
 		}
 
 	}
-} 
+}
+
+// Good Programing Logic - Understand
 
 
 //====[Output]===========================================
